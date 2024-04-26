@@ -6,3 +6,5 @@ Preprosta analiza besed
 
 * Francoz
 * Nemško-Poljski pudelj
+
+sdfghjkleggydthyht

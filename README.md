@@ -7,3 +7,4 @@ Preprosta analiza besed
 * Jaz
 * Ti
 * tvoja ****
+* Anton

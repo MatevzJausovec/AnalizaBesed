@@ -1,1 +1,3 @@
 # AnalizaBesed
+
+Preprosta analiza besed
